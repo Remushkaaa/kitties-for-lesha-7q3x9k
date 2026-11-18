@@ -1,0 +1,4 @@
+Мурчание: Purr (10 sec loopable).ogg, Wikimedia Commons, автор Insanejeff, общественное достояние.
+https://commons.wikimedia.org/wiki/File:Purr_(10_sec_loopable).ogg
+Сайт сначала ищет файл звуки/purr.ogg рядом, если его нет - играет прямо с Wikimedia.
+Чтобы работало без интернета: скачай файл по ссылке выше и положи сюда как purr.ogg.
